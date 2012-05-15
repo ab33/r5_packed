@@ -1,4 +1,4 @@
-Reveal HTML5 video sources Google Chrome Extension.
+Reveal HTML5 video sources Google Chrome Extension. <ab33@gmx.com>
 
 How to use:
 ----------
@@ -15,7 +15,7 @@ Hints:
 	  then press "R5" action icon again
 
 
-4. Permissions.
+Permissions.
 
 	* "Your data on all websites" - required for Javascript file (cs.js) injection,
 	* "Your tabs and browsing activity" - required for opening a page in a new tab from the history.
