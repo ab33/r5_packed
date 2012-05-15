@@ -18,4 +18,4 @@ Hints:
 Permissions.
 
 	* "Your data on all websites" - required for Javascript file (cs.js) injection,
-	* "Your tabs and browsing activity" - required for opening a page in a new tab from the history.
+	* "Your tabs and browsing activity" - required for identifying of the current tab.
